@@ -16,5 +16,6 @@ Se requiere crear 3 componentes
 ## Caso de Uso 4
 - Generar un servico rest en spring boot que permita consultar los datos de BD3
 
-[ ] Todo esto debe poder levantarse con un docker compose
-[ ] Se deben generar las ramas test, develop y main para prod
+
+- [ ] Todo esto debe poder levantarse con un docker compose
+- [ ] Se deben generar las ramas test, develop y main para prod
